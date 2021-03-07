@@ -5,7 +5,8 @@ gitHub together
 This is an example to show different parts of the git repositry and various
 commands using a web project
 ## Purpose
-
+As stated above, the main purpose is to provide simple examples for git
+training demos
 ## Deployment
 
 
