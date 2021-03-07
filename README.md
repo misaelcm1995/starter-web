@@ -8,6 +8,6 @@ commands using a web project
 As stated above, the main purpose is to provide simple examples for git
 training demos
 ## Deployment
-
+This is a simple web project, deployment can be any web server
 
 ## How To Contribute
