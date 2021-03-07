@@ -12,3 +12,4 @@ This is a simple web project, deployment can be any web server
 
 ## How To Contribute
 this is a simple description in order to let know how to contribute with this current project
+This is a dummy line, just to improve the correct function of difftool function
